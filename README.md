@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">"Hey there, Gurucharan here👋
+<h2 align="center">"Hey there, Gurucharan here👋 <br>
 A Software Developer and passionate about machine learning.
 
 ###
