@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="center">"Hey there, Gurucharan here👋 <br>
-A Software Developer passionate about machine learning.
+A Django Developer passionate about machine learning.
 
 ###
 
