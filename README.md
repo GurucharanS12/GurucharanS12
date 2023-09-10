@@ -7,10 +7,6 @@ A Django Developer passionate about machine learning.
 
 <br clear="both">
 
-<img align="right" height="236" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b7611n92e3gzjmm0t8mvvz9fds6v7kqnbzqx52cpc4mfh&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="25" />
